@@ -1,0 +1,2 @@
+|https://v.wpimg.pl/$image
+@@|https://v.wpimg.pl/*/|$image
